@@ -40,7 +40,7 @@ def CreateOutput(DirName,list):
 
 def CreateMail(To,FileName):
 	username = "harshalghule20@gmail.com";
-	password = "harshal104242";
+	password = "***************";
 	to = To;
 	
 	subject  = """
